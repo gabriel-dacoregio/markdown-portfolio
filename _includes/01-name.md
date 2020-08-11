@@ -1,3 +1,2 @@
 # Gabriel Dacoregio
-## Slightly smaller text
-### Even smaller text
+## A modest portfolio for learning purposes
